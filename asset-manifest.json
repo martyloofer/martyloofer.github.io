@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/martyloofer.github.io/static/css/main.17f3fd84.chunk.css",
+    "main.js": "/martyloofer.github.io/static/js/main.f43ec490.chunk.js",
+    "main.js.map": "/martyloofer.github.io/static/js/main.f43ec490.chunk.js.map",
+    "runtime-main.js": "/martyloofer.github.io/static/js/runtime-main.ee958c32.js",
+    "runtime-main.js.map": "/martyloofer.github.io/static/js/runtime-main.ee958c32.js.map",
+    "static/js/2.1bbb3065.chunk.js": "/martyloofer.github.io/static/js/2.1bbb3065.chunk.js",
+    "static/js/2.1bbb3065.chunk.js.map": "/martyloofer.github.io/static/js/2.1bbb3065.chunk.js.map",
+    "index.html": "/martyloofer.github.io/index.html",
+    "precache-manifest.f1ba22b31915720d877cb518f66c6b66.js": "/martyloofer.github.io/precache-manifest.f1ba22b31915720d877cb518f66c6b66.js",
+    "service-worker.js": "/martyloofer.github.io/service-worker.js",
+    "static/css/main.17f3fd84.chunk.css.map": "/martyloofer.github.io/static/css/main.17f3fd84.chunk.css.map",
+    "static/js/2.1bbb3065.chunk.js.LICENSE.txt": "/martyloofer.github.io/static/js/2.1bbb3065.chunk.js.LICENSE.txt",
+    "static/media/test.png": "/martyloofer.github.io/static/media/test.1a2f8302.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee958c32.js",
+    "static/js/2.1bbb3065.chunk.js",
+    "static/css/main.17f3fd84.chunk.css",
+    "static/js/main.f43ec490.chunk.js"
+  ]
+}
